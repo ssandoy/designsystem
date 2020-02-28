@@ -46,7 +46,7 @@
   },
   "peerDependencies": {
     "@sb1/ffe-context-message": "^3.0.0",
-    "react": "^16.9.0"
+    "react": "^16.13.0"
   },
   "publishConfig": {
     "access": "public"
