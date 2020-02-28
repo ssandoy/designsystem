@@ -47,7 +47,7 @@
   },
   "peerDependencies": {
     "@sb1/ffe-buttons": "^8.1.0",
-    "react": "^16.9.0"
+    "react": "^16.13.0"
   },
   "publishConfig": {
     "access": "public"
