@@ -49,7 +49,7 @@
   "peerDependencies": {
     "@sb1/ffe-core": "^15.2.0",
     "@sb1/ffe-form": "^11.0.1",
-    "react": "^16.9.0"
+    "react": "^16.13.0"
   },
   "publishConfig": {
     "access": "public"
