@@ -37,7 +37,7 @@
     "jest": "^23.4.2",
     "react": "^16.13.0",
     "react-addons-test-utils": "^15.6.2",
-    "react-dom": "^16.9.0"
+    "react-dom": "^16.13.0"
   },
   "peerDependencies": {
     "@sb1/ffe-form": ">=11.0.1",
