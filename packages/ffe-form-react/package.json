@@ -43,7 +43,7 @@
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-motion": "^0.5.2",
-    "react-test-renderer": "^16.2.0",
+    "react-test-renderer": "^16.13.0",
     "sinon": "^7.2.3"
   },
   "peerDependencies": {
